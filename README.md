@@ -1,3 +1,6 @@
+With modifications to load shellcode from remote host
+https://medium.com/@luisgerardomoret_69654/using-dinvoke-and-sliver-to-evade-openedr-and-escalate-privileges-f19a174abbc9
+
 # DInvoke_shellcodeload_CSharp
 
 
